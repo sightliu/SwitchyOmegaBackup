@@ -31,7 +31,8 @@
 ② "在线恢复"，输入以下链接后，点击 "恢复"。
 
 ```         
-https://raw.githubusercontent.com/chugit/SwitchyOmegaBackup/main/OmegaOptions.bak
+[https://raw.githubusercontent.com/chugit/SwitchyOmegaBackup/main/OmegaOptions.bak]
+[https://github.com/sightliu/SwitchyOmegaBackup/blob/main/OmegaOptions.bak]
 ```
 
 或
